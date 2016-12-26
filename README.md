@@ -1,5 +1,5 @@
-Request Http API with Python servermod
-======================================
+Request Http API with Python server mod
+=======================================
   
 By Le Sanglier des Ardennes <lesanglierdesardennes@gmail.com>  
   
